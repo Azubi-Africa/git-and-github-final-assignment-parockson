@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  First ML project|contains the ML algorithm with the CRISP DM framework| https://       |
+| 2 |  second ML project|contains the ML algorithm with the CRISP DM framework | https://       |
+| 3 |  Third Data Science Project|contains the ML algorithm with the CRISP DM framework | https://github.com/parockson/third_data_science       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
